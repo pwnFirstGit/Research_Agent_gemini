@@ -74,7 +74,7 @@ A command-line research assistant that takes a question, uses Google's Gemini mo
 
 ### 📸 Sample Output
 
-![Sample Output](./output-screenshot.png)
+![Sample Output](./assets/output-screenshot.png)
 
 ## 🚀 Possible Future Improvements
 
